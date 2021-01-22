@@ -13,13 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/abdellah-allali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="abdellah-allali" height="30" width="40" /></a>
 <a href="https://dev.to/aallali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aallali" height="30" width="40" /></a>
 <a href="https://twitter.com/allaliabdullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="allaliabdullah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aallali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aallali" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12115325" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12115325" height="30" width="40" /></a>
-<a href="https://fb.com/allaliabdullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="allaliabdullah" height="30" width="40" /></a>
-<a href="https://instagram.com/abdellahallali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abdellahallali" height="30" width="40" /></a>
 </p>
 
 
