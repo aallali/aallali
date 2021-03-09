@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdellah ALLALI</h1>
 <h3 align="center">A passionate Software Engineer from Morocco</h3>
 
-- 📫 How to reach me **hi@allali.me**
+- 📫 You can reach me simply by sending a sweat words to **hi@allali.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
