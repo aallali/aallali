@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah ALLALI</h1>
-<h3 align="center">A passionate Software Engineer from Morocco</h3>
+<h3 align="center">A passionate Software Developer from Morocco</h3>
 
 - 📫 You can reach me simply by sending a sweat words to **hi@allali.me**
 
