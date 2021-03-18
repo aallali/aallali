@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from Morocco</h3>
 
 - 📫 You can reach me simply by sending a sweat words to **hi@allali.me**
-
+- Enjoying web scraping challenges
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/aallali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aallali" height="30" width="40" /></a>
