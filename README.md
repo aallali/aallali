@@ -13,11 +13,13 @@
 </p>
  <h3 align="left">Nice to see</h3>
 <p align="left">
- 
+ <a>
+  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-FT_Linear_Regression)](https://github.com/aallali/42-FT_Linear_Regression)
  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-FT_Linear_Regression)](https://github.com/aallali/42-FT_Linear_Regression)
-
+ 
+ </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
