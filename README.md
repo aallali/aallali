@@ -13,17 +13,15 @@
 </p>
  <h3 align="left">Nice to see</h3>
 <p align="left">
- <a width="300">
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-FT_Linear_Regression)](https://github.com/aallali/42-FT_Linear_Regression)
- 
-   </a>
- <a width="300">
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-FT_Linear_Regression)](https://github.com/aallali/42-FT_Linear_Regression)
- 
- </a>
+<a href="https://dev.to/aallali" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-FT_Linear_Regression" alt="aallali"  /></a>
+<a href="https://twitter.com/allaliabdullah" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-FT_Linear_Regression" alt="allaliabdullah"  /></a>
 </p>
+  
+  
+ 
+  
+  
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
