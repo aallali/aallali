@@ -14,17 +14,17 @@
  <h3 align="left">Nice to see</h3>
  
 <p align="left">
- <a href="https://dev.to/aallali" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-FT_Linear_Regression" alt="aallali"/>
+ <a  target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-FT_Linear_Regression" alt="aallali"/>
  </a>
- <a href="https://twitter.com/allaliabdullah" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-N-Puzzle" alt="allaliabdullah"/>
+ <a h target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-FT_Linear_Regression" alt="allaliabdullah"/>
  </a>
 </p>
   
   
 <p align="left">
- <a href="https://dev.to/aallali" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-Snow_Crash" alt="aallali"/>
+ <a target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-Snow_Crash" alt="aallali"/>
  </a>
- <a href="https://twitter.com/allaliabdullah" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-RED-TETRIS" alt="allaliabdullah"/>
+ <a  target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-RED-TETRIS" alt="allaliabdullah"/>
  </a>
 </p>
   
