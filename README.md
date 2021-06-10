@@ -4,7 +4,7 @@
 - 📫 You can reach me simply by writing to : **aallali.1337@gmail.com**
 - Enjoying web scraping challenges
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api?username=aallali&show_icons=true&theme=vue-dark)]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api?username=aallali&show_icons=true&theme=vue-dark)
 
 
 <h3 align="left">Connect with me:</h3>
