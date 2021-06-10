@@ -3,6 +3,10 @@
 
 - 📫 You can reach me simply by writing to : **aallali.1337@gmail.com**
 - Enjoying web scraping challenges
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/aallali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aallali" height="30" width="40" /></a>
