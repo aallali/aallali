@@ -30,9 +30,9 @@
   
   
 <p align="left">
- <a target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-Fillit" alt="aallali"/>
+ <a href="https://github.com/aallali/42-Fillit" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-Fillit" alt="aallali"/>
  </a>
- <a  target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-Fractol" alt="allaliabdullah"/>
+ <a  href="https://github.com/aallali/42-Fractol" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-Fractol" alt="allaliabdullah"/>
  </a>
 </p>
   
