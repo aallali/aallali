@@ -16,15 +16,15 @@
 <p align="left">
  <a  target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-FT_Linear_Regression" alt="aallali"/>
  </a>
- <a h target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-FT_Linear_Regression" alt="allaliabdullah"/>
+ <a h target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=442-N-Puzzle" alt="allaliabdullah"/>
  </a>
 </p>
   
   
 <p align="left">
- <a target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-Snow_Crash" alt="aallali"/>
+ <a target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-HyperTube" alt="aallali"/>
  </a>
- <a  target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-RED-TETRIS" alt="allaliabdullah"/>
+ <a  target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-Fractol" alt="allaliabdullah"/>
  </a>
 </p>
   
