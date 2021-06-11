@@ -16,7 +16,7 @@
 <p align="left">
  <a  target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-FT_Linear_Regression" alt="aallali"/>
  </a>
- <a h target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=442-N-Puzzle" alt="allaliabdullah"/>
+ <a h target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-Snow_Crash" alt="allaliabdullah"/>
  </a>
 </p>
   
