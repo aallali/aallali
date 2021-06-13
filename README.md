@@ -16,7 +16,7 @@
 <p align="left">
  <a href="https://github.com/aallali/42-FT_Linear_Regression" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-FT_Linear_Regression" alt="aallali"/>
  </a>
- <a href="https://github.com/aallali/42-Snow_Crash" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-N-Puzzle" alt="allaliabdullah"/>
+ <a href="https://github.com/aallali/42-N-Puzzle" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-N-Puzzle" alt="allaliabdullah"/>
  </a>
 </p>
   
