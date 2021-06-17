@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah ALLALI</h1>
 <h3 align="center">A passionate Software Developer from Morocco</h3>
 
-- 📫 You can reach me simply by writing to : **aallali.1337@gmail.com**
+- 📫 You can reach me simply by writing to : **hi@allali.me**
 - Enjoying web scraping challenges
 
  <h3 align="left">Github Analytics</h3>
