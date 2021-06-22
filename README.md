@@ -14,7 +14,7 @@
  <h3 align="left">Nice to see</h3>
  
 <p align="left">
- <a href="https://github.com/aallali/42-ft-linear-regression" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-ft_linear_regression" alt="aallali"/>
+ <a href="https://github.com/aallali/42-ft-linear-regression" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-ft-linear-regression" alt="aallali"/>
  </a>
  <a href="https://github.com/aallali/42-N-Puzzle" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aallali&repo=42-N-Puzzle" alt="allaliabdullah"/>
  </a>
