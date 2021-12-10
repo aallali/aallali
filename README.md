@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer who wears yellow jacket</h3>
 
 - 📫 You can reach me simply by writing to : **hi@allali.me**
-- enjoying making technical tools and solution
+- enjoying making technical tools and solutions
 - love fishing and my yellow jacket
  
 :)
