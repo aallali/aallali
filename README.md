@@ -3,6 +3,6 @@
 
 - 📫 You can reach me simply by writing to : **hi@allali.me**
 - enjoying making technical tools and solutions
-- love fishing and my yellow jacket
+- love fishing
  
 :)
