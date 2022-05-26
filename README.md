@@ -5,5 +5,5 @@
 - enjoying making technical tools and solutions
 - love fishing
  
-check this tetris online multiplayer game i created with React: https://allali.me/redtetris/
+check this tetris online multiplayer game i created with React: https://allali.me/redtetris/ (not online anymore)
 :)
