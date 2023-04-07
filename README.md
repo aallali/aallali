@@ -21,7 +21,7 @@
 <li><a href="https://github.com/aallali/red-tetris">RED-TETRIS</a>: Online Multiplayer Tetris game with ReactJs + NodeJs using Sockets and typescript </li>
 <li><a href="https://github.com/aallali/Matcha
 ">Matha</a>: tinder like web app with Nodejs + MySql</li>
-<li><a href="https://github.com/aallali/camagru"></a>: instagram like web using PHP and MySql</li>
+<li><a href="https://github.com/aallali/camagru">Camagru</a>: instagram like web using PHP and MySql</li>
 </ul>
  <li>Security:</li>
  <ul>
