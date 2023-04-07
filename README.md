@@ -1,14 +1,17 @@
-<h1 align="center">Hi 👋, I'm Abdollah ALLALI</h1>
+<h1 align="center">Hi 👋, I'm Abdullah ALLALI</h1>
 <h3 align="center">A passionate  Backend Engineer, ...</h3>
 
 - 📫 You can reach me simply by writing to : **hi@allali.me**
+- currently : Full Time Backend Engineer
+- past experience : Full Stack Software/Data Engineer (scrap and process data)
+- goal : dive deeper in Backend Engineering where i have to deal with heavey Data Processing.
 - enjoying making technical tools and solutions
-- Mathematics <3
-- love fishing
+- Fun Mathematics <3
+- love fishing but never went out fishing
  
 ## Projects:
 <ul>
-	<li>Algorithms Implementation</li>
+	<li><b>Algorithms Implementation</b></li>
 	<ul>
 		<li>
 			<a href="https://github.com/aallali/N-Puzzle-Js">n-puzzle-js</a>: Javascript implementation A* algo to solve slide puzzle of size N + UI to test in react
@@ -35,7 +38,7 @@
 			<a href="https://github.com/aallali/Libft">libFt</a>: principal balise of C functions re-written from scratch.
 		</li>
 	</ul>
-	<li>Web Apps:</li>
+	<li><b>Web Apps:</b></li>
 	<ul>
 		<li>
 			<a href="https://github.com/aallali/red-tetris">RED-TETRIS</a>: Online Multiplayer Tetris game with ReactJs + NodeJs using Sockets and typescript
@@ -48,7 +51,7 @@
 			<a href="https://github.com/aallali/camagru">Camagru</a>: instagram like web using PHP and MySql
 		</li>
 	</ul>
-	<li>Security:</li>
+	<li><b>Security:</b></li>
 	<ul>
 		<li>
 			<a href="https://github.com/aallali/42-rainfall">Rainfall</a>:[ctf] reverse engeneering and exploit executables.
@@ -63,13 +66,13 @@
 			<a href="https://github.com/aallali/42-boot2root">snow-crash</a>:[ctf] this project aims to make you discover, through several little challenges, cyber security in various fields.
 		</li>
 	</ul>
-	<li>Devops:</li>
+	<li><b>Devops:</b></li>
 	<ul>
 		<li>
 			<a href="https://github.com/aallali/Inception-of-Things/tree/v2/1337">inception-of-things</a>: deploy simple app and implement CI/CD using ArgoCD with Kubernetes (lightweight version of it K3S) for learning purposes.
 		</li>
 	</ul>
-	<li>Mobile:</li>
+	<li><b>Mobile:</b></li>
 	<ul>
 		<li>
 			<a href="https://github.com/aallali/ft-hangouts">ft-hangout</a>: simple android app to manage phone contacts and calls. written in JAVA
@@ -77,5 +80,12 @@
 		<li>
 			<a href="https://github.com/aallali/Swifty-Companion">swifty-companion</a>: multi platform mobile app to retreive students information and display them using "42 API" (42 network students), written in React-native
 		</li>
+	</ul>
+	<li><b>Data Scrapping/Analysis:</b></li>
+	<ul>
+		<li>
+			most of projects made for clients on demand and private, will publish open source versions as soon as possible.
+		</li>
+	</ul>
 	</ul>
 </ul>
