@@ -23,7 +23,7 @@
 			<a href="https://github.com/aallali/ft-linear-regression">ft-linear-regression</a>: python implementation of Linear Regression (basic concepts of Data Science)
 		</li>
 		<li>
-			<a href="https://github.com/aallali/DSLR--Data-Science-X-Logistic-Regression-">ft-logitic-regression</a>: python implementation of Logistic Regression (basic concepts of Data Science)
+			<a href="https://github.com/aallali/DSLR--Data-Science-X-Logistic-Regression-">ft-logistic-regression</a>: python implementation of Logistic Regression (basic concepts of Data Science)
 		</li>
 		<li>
 			<a href="https://github.com/aallali/42-computorv1">computer-v1</a>: First and Second Degree Mathematical equation parser and calculator using JavaScript
@@ -45,7 +45,7 @@
 		</li>
 		<li>
 			<a href="https://github.com/aallali/Matcha
-">Matha</a>: tinder like web app with Nodejs + MySql
+">Matcha</a>: tinder like web app with Nodejs + MySql
 		</li>
 		<li>
 			<a href="https://github.com/aallali/camagru">Camagru</a>: instagram like web using PHP and MySql
