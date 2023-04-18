@@ -8,6 +8,7 @@
 - enjoying making technical tools and solutions
 - Fun Mathematics <3
 - love fishing but never went out fishing
+- i share thought here [in my blog](https://blog.allali.me/)
  
 ## Projects:
 <ul>
