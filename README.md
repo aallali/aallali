@@ -15,16 +15,16 @@
 	<li><b>Algorithms Implementation</b></li>
 	<ul>
 		<li>
-			<a href="https://github.com/aallali/N-Puzzle-Js">n-puzzle-js</a>: Javascript implementation A* algo to solve slide puzzle of size N + UI to test in react
+			<a href="https://github.com/aallali/N-Puzzle-Js">n-puzzle-js</a>: Javascript implementation A*/BFS/DFS algo to solve slide puzzle of size N + UI to test in react
 		</li>
 		<li>
-			<a href="https://github.com/aallali/N-Puzzle">n-puzzle</a>: Python implementation of A* algo to solve slide puzzle of size N
+			<a href="https://github.com/aallali/N-Puzzle">n-puzzle</a>: Python implementation of A*/BFS algo to solve slide puzzle of size N
 		</li>
 		<li>
-			<a href="https://github.com/aallali/ft-linear-regression">ft-linear-regression</a>: python implementation of Linear Regression (basic concepts of Data Science)
+			<a href="https://github.com/aallali/ft-linear-regression">ft-linear-regression</a>:Price Predictor, python implementation of Linear Regression (basic concepts of Data Science)
 		</li>
 		<li>
-			<a href="https://github.com/aallali/DSLR--Data-Science-X-Logistic-Regression-">ft-logistic-regression</a>: python implementation of Logistic Regression (basic concepts of Data Science)
+			<a href="https://github.com/aallali/DSLR--Data-Science-X-Logistic-Regression-">ft-logistic-regression</a>:Student Class prediction, python implementation of Logistic Regression (basic concepts of Data Science)
 		</li>
 		<li>
 			<a href="https://github.com/aallali/42-computorv1">computer-v1</a>: First and Second Degree Mathematical equation parser and calculator using JavaScript
