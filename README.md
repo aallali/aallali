@@ -4,11 +4,11 @@
 - 📫 You can reach me simply by writing to : **hi@allali.me**
 - currently : Full Time Backend Engineer
 - past experience : Full Stack Software/Data Engineer (scrap and process data)
-- goal : dive deeper in Backend Engineering where i have to deal with heavey Data Processing.
-- enjoying making technical tools and solutions
-- Fun Mathematics <3
-- love fishing but never went out fishing
-- i share thought here [in my blog](https://blog.allali.me/)
+- 🥅 goal : dive deeper in Backend Engineering where i have to deal with heavey Data Processing.
+- 🧰 enjoying making technical tools and solutions
+- 👷 current project : [todo-AWS-Serverless](https://github.com/aallali/todo-AWS-Serverless)
+- 🎣 love fishing but never went out fishing
+- ✍️ i share thought here [in my blog](https://blog.allali.me/)
  
 ## Projects:
 <ul>
