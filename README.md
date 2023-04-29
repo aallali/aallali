@@ -8,7 +8,7 @@
 - 🧰 enjoying making technical tools and solutions
 - 👷 current project : [todo-AWS-Serverless](https://github.com/aallali/todo-AWS-Serverless)
 - 🎣 love fishing but never went out fishing
-- ✍️ i share thought here [in my blog](https://blog.allali.me/)
+- ✍️ i post my thoughts [in my blog](https://blog.allali.me/)
  
 ## Projects:
 <ul>
