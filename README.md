@@ -6,7 +6,9 @@
 - past experience : Full Stack Software/Data Engineer (scrap and process data)
 - 🥅 goal : dive deeper in Backend Engineering where i have to deal with heavey Data Processing.
 - 🧰 enjoying making technical tools and solutions
-- 👷 current project : [todo-AWS-Serverless](https://github.com/aallali/todo-AWS-Serverless)
+- 👷 **current project : [CRUD-Authentication-Serverless-AWS
+](https://github.com/aallali/CRUD-Authentication-Serverless-AWS
+)** template
 - 🎣 love fishing but never went out fishing
 - ✍️ i post my thoughts [in my blog](https://blog.allali.me/)
  
