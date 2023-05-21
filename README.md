@@ -4,9 +4,10 @@
 - 📫 You can reach me simply by writing to : **hi@allali.me**
 - currently : Full Time Backend Engineer
 - past experience : Full Stack Software/Data Engineer (scrap and process data)
-- 🥅 goal : dive deeper in Backend Engineering where i have to deal with heavey Data Processing.
+- 🥅 goal : dive deeper in Backend Engineering where i have to deal with heavy Data Processing.
 - 🧰 enjoying making technical tools and solutions
-- 👷 **current project : [CRUD-Authentication-Serverless-AWS
+- 📚 currently learning: **Go**
+- 👷 **current working on : [CRUD-Authentication-Serverless-AWS
 ](https://github.com/aallali/CRUD-Authentication-Serverless-AWS
 )** template
 - 🎣 love fishing but never went out fishing
