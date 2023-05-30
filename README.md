@@ -1,20 +1,26 @@
 <h1 align="center">Hi 👋, I'm Abdullah ALLALI</h1>
-<h3 align="center">A passionate  Backend Engineer, ...</h3>
+<h3 align="center">A Backend Engineer, with a passion to Design pattern and Distributed systems...</h3>
 
-- 📫 You can reach me simply by writing to : **hi@allali.me**
-- currently : Full Time Backend Engineer
-- past experience : Full Stack Software/Data Engineer (scrap and process data)
-- 🥅 goal : dive deeper in Backend Engineering where i have to deal with heavy Data Processing.
-- 🧰 enjoying making technical tools and solutions
-- 📚 currently learning: **Go**
-- 👷 **current working on : [CRUD-Authentication-Serverless-AWS
-](https://github.com/aallali/CRUD-Authentication-Serverless-AWS
-)** template
-- 🎣 love fishing but never went out fishing
+- 👷 **currently working on : [DeepEye](https://github.com/aallali/DeepEye)** CLI
+- 🧰 enjoying making technical solutions and building data intensive apps.
+- 📚 currently learning: **Go, Rust, Microservices**
 - ✍️ i post my thoughts [in my blog](https://blog.allali.me/)
- 
+
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/3dida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farajist" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aallali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farajist" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aallali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farajist" height="30" width="40" /></a>
+</p>
+
 ## Projects:
 <ul>
+	<li><b>Open Source Tools:</b></li>
+	<ul>
+		<li>
+			<a href="https://github.com/aallali/deepeye">DeepEye</a>: a CLI written in GO, allows you to run advanced search queries on large size files.
+		</li>
+	</ul>
 	<li><b>Algorithms Implementation</b></li>
 	<ul>
 		<li>
