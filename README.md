@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullah ALLALI</h1>
+<h1 align="center">Hi 👋, I'm Abdullah (@aallali)</h1>
 <h3 align="center">A Backend Engineer, with a passion to Design pattern and Distributed systems...</h3>
 
 - 👷 **currently working on : [DeepEye](https://github.com/aallali/DeepEye)** CLI
@@ -18,7 +18,7 @@
 	<li><b>Open Source Tools:</b></li>
 	<ul>
 		<li>
-			<a href="https://github.com/aallali/deepeye">DeepEye</a>: a CLI written in GO, allows you to run advanced search queries on large size files.
+			<a href="https://github.com/aallali/deepeye">DeepEye</a>: a CLI written in GO, allows you to run advanced search queries on large size files from your terminal.
 		</li>
 	</ul>
 	<li><b>Algorithms Implementation</b></li>
