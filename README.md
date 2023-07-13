@@ -13,6 +13,9 @@
 <a href="https://www.leetcode.com/aallali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farajist" height="30" width="40" /></a>
 </p>
 
+## Overview:
+[![xx](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aallali&theme=default&width=100)]("")
+[![xx](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aallali&theme=default)]("")
 ## Projects:
 <ul>
 	<li><b>Open Source Tools:</b></li>
@@ -99,3 +102,9 @@
 	</ul>
 	</ul>
 </ul>
+ 
+
+
+
+[![xx](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aallali&theme=default)]("")
+
