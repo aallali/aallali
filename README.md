@@ -103,8 +103,5 @@
 	</ul>
 </ul>
  
-
-
-
-[![xx](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aallali&theme=default)]("")
-
+## 42 Stats:
+[![aallali's 42 stats](https://badge42.vercel.app/api/v2/clk2i8v2x000608jvc8x63pz0/stats?cursusId=21&coalitionId=73)](https://github.com/JaeSeoKim/badge42)
