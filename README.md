@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdellah </h1>
 <h3 align="center">A Backend Engineer, passionate about building Data itensive apps and design patterns</h3>
 
-- currently :
+- working on:
   	- **Gomoku Solver Engine**
   	- Build a **ML** to **detect human movements** from **EEG signals data**
   	- **[DeepEye](https://github.com/aallali/DeepEye) CLI**
 - currently learning: **Machine Learning, FP, Microservices Architecture**
 - Articles: [in my blog](https://blog.allali.me/)
-- Book: [Typescript: Beyond The Core](https://github.com/aallali/TypeScript-Beyond-The-Core)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/is3dida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farajist" height="30" width="40" /></a>
@@ -21,8 +21,10 @@
 	<ul>
 		<li><a href="https://github.com/aallali/deepeye">DeepEye</a>: a CLI written in GO, allows you to run advanced search queries on large size files from your terminal.</li>
 	</ul>
-	<li><b>Data science:</b></li>
+	<li><b>Data science/Ai:</b></li>
 	<ul>
+		<li><a href="https://github.com/aallali/gomoku">Gomoku</a>: build a strong gomoku player engine </li>
+		<li><a href="https://github.com/aallali/Total-perspective-Vortex">Total-perspective-Vortex</a>: create a brain computer interface based on electroencephalographic data (EEG data) with the help of machine learning algorithms.</li>
 		<li><a href="https://github.com/aallali/ft-linear-regression">ft-linear-regression</a>:Price Predictor, python implementation of Linear Regression (basic concepts of Data Science)</li>
 		<li><a href="https://github.com/aallali/DSLR--Data-Science-X-Logistic-Regression-">DSLR</a>:(Data Science X Logistic Regression) Student Class prediction, python implementation of Logistic Regression (basic concepts of Data Science)</li>
 	</ul>
@@ -48,18 +50,17 @@
 		<li><a href="https://github.com/aallali/42-boot2root">Boot-2-root</a>: hack iso and server running in it</li>
 		<li><a href="https://github.com/aallali/42-boot2root">snow-crash</a>:[ctf] this project aims to make you discover, through several little challenges, cyber security in various fields.</li>
 	</ul>
-	<li><b>Devops:</b></li>
+	<li><b>Devops lab:</b></li>
 	<ul>
 		<li><a href="https://github.com/aallali/Inception-of-Things/tree/v2/1337">inception-of-things</a>: deploy simple app and implement CI/CD using ArgoCD with Kubernetes (lightweight version of it K3S) for learning purposes.</li>
 	</ul>
-	<li><b>Mobile:</b></li>
+<!-- 	<li><b>Mobile:</b></li>
 	<ul>
 		<li><a href="https://github.com/aallali/ft-hangouts">ft-hangout</a>: simple android app to manage phone contacts and calls. written in JAVA</li>
 		<li><a href="https://github.com/aallali/Swifty-Companion">swifty-companion</a>: multi platform mobile app to retreive students information and display them using "42 API" (42 network students), written in React-native </li>
-	</ul>
+	</ul> -->
 	<li><b>Data Scrapping/Analysis:</b></li>
 	<ul>
-		<li>most of projects made for clients on demand and private, will publish open source versions as soon as possible.</li>
 		<li><a href="https://github.com/aallali/quickScrapperFreelance">QuickScrapper</a>: in python a custom dynamic e-commerce websites scrapper, designed to be run in AWS primarly.</li>
 	</ul>
 </ul>
