@@ -2,9 +2,10 @@
 <h3 align="center">A Backend Engineer, passionate about building Data itensive apps and design patterns</h3>
 
 - working on:
-  	- **Gomoku Solver Engine**
-  	- Build a **ML** to **detect human movements** from **EEG signals data**
-  	- **[DeepEye](https://github.com/aallali/DeepEye) CLI**
+  	- [x] **Gomoku Solver Engine**
+  	- [x] Build a **ML** to **detect human movements** from **EEG signals data**
+  	- [ ] Leaf Disease Calassification using **CNN**
+  	- [ ] **[DeepEye](https://github.com/aallali/DeepEye) CLI** (open to contributions)
 - currently learning: **Machine Learning, FP, Microservices Architecture**
 - Articles: [in my blog](https://blog.allali.me/)
 
