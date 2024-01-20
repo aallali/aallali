@@ -5,7 +5,7 @@
   	- [x] **Gomoku Solver Engine**
   	- [x] Build a **ML** to **detect human movements** from **EEG signals data**
   	- [ ] Leaf Disease Calassification using **CNN**
-  	- [ ] **[DeepEye](https://github.com/aallali/DeepEye) CLI** (open to contributions)
+  	- [x] **[DeepEye](https://github.com/aallali/DeepEye) CLI** (open to contributions)
 - currently learning: **Machine Learning, FP, Microservices Architecture**
 - Articles: [in my blog](https://blog.allali.me/)
 
