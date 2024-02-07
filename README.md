@@ -6,7 +6,7 @@
   	- [x] Build a **ML** to **detect human movements** from **EEG signals data**
   	- [x] Leaf Disease Classification using **CNN**
   	- [x] **[DeepEye](https://github.com/aallali/DeepEye) CLI** (open to contributions)
-- currently learning: **Machine Learning, FP, Microservices Architecture**
+- currently learning: **Storage Engines, Database internals, Microservices Architecture**
 - Articles: [in my blog](https://blog.allali.me/)
 
 <h3 align="left">Connect with me:</h3>
