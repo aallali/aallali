@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdellah </h1>
 <h3 align="center">A Backend Engineer, passionate about building Data itensive apps and design patterns</h3>
 
-- working on:
-  	- [x] **Gomoku Solver Engine**
-  	- [x] Build a **ML** to **detect human movements** from **EEG signals data**
-  	- [x] Leaf Disease Classification using **CNN**
-  	- [x] **[DeepEye](https://github.com/aallali/DeepEye) CLI** (open to contributions)
-- currently learning: **Storage Engines, Database internals, Microservices Architecture**
+- currently digging deeper into : **Storage Engines, Database internals**.
 - Articles: [in my blog](https://blog.allali.me/)
 
 <h3 align="left">Connect with me:</h3>
@@ -24,6 +19,7 @@
 	</ul>
 	<li><b>Data science/Ai:</b></li>
 	<ul>
+		<li><a href="https://github.com/aallali/Leaf-Diseases-Classification">Leaffliction</a>: computer vision applications related to plant leaf diseases. It encompasses tasks such as image dataset analysis, data augmentation, image transformations, and image classification to address various aspects of plant health in the context of leaf diseases. </li>
 		<li><a href="https://github.com/aallali/gomoku">Gomoku</a>: build a strong gomoku player engine </li>
 		<li><a href="https://github.com/aallali/Total-perspective-Vortex">Total-perspective-Vortex</a>: create a brain computer interface based on electroencephalographic data (EEG data) with the help of machine learning algorithms.</li>
 		<li><a href="https://github.com/aallali/ft-linear-regression">ft-linear-regression</a>:Price Predictor, python implementation of Linear Regression (basic concepts of Data Science)</li>
@@ -43,6 +39,12 @@
 		<li> <a href="https://github.com/aallali/red-tetris">RED-TETRIS</a>: Online Multiplayer Tetris game with ReactJs + NodeJs using Sockets and typescript </li>
 		<li> <a href="https://github.com/aallali/Matcha">Matcha</a>: Tinder like web app with Nodejs + MySql</li>
 		<li> <a href="https://github.com/aallali/camagru">Camagru</a>: instagram like web app using PHP and MySql </li>
+	</ul>
+	<li><b>Mobile Apps:</b></li>
+	<ul>
+		<li> <a href="https://github.com/aallali/3d-protein">3d Protein</a>: create a 3d scene from a PDB file (protein data bank) with a fully control utilities in UI.</li>
+		<li> <a href="https://github.com/aallali/Swifty-Companion">swifty_companion</a>: application that will retrieve the information of 42 student, using the 42 API</li>
+		<li> <a href="https://github.com/aallali/ft-hangouts">ft_hangouts</a>: android application that will allow you to create a contact and send texts. The goal is to understand how an Android application works, how Android deals with your app and how to use the SDK.</li>
 	</ul>
 	<li><b>Security:</b></li>
 	<ul>
