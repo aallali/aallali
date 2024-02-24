@@ -11,8 +11,6 @@
 <a href="https://www.leetcode.com/aallali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aallali" height="30" width="40" /></a>
 </p>
 
-[![aallali's 42 stats](https://badge.mediaplus.ma/black/aallali)]([https://github.com/oakoudad/badge42](https://profile.intra.42.fr/users/aallali))
-
 ## Projects:
 <ul>
 	<li><b>Open Source Tools:</b></li>
