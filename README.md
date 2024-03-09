@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdellah </h1>
-<h3 align="center">A Backend Engineer, passionate about building Data itensive apps and design patterns</h3>
+<h3 align="center">A Backend Engineer with interests in Database internals.</h3>
 
-- currently digging deeper into : **Storage Engines, Database internals**.
+- currently learning more about : **Storage Engines, Database internals**.
 - Articles: [in my blog](https://blog.allali.me/)
 
 <h3 align="left">Connect with me:</h3>
