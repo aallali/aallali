@@ -3,7 +3,7 @@
 
 - currently learning more about : **Storage Engines, Database internals**.
 - Articles: [in my blog](https://blog.allali.me/)
-
+- Currently working on creating my own database engine from scratch for learning purposes: [SafinaDB](https://github.com/aallali/safinadb) (follow the journey if you want)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/is3dida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aallali" height="30" width="40" /></a>
@@ -33,12 +33,14 @@
 		<li><a href="https://github.com/aallali/Fillit">fillit</a>: engine to find the best state to fit N tetris pieces into a Board of size X using Backtrack and written with C language</li>
 		<li><a href="https://github.com/aallali/Fractol">fractols</a>: implement Fractals and their mathematical sets from scratch using pure C language</li>
 		<li><a href="https://github.com/aallali/Libft">libFt</a>: principal balise of C functions re-written from scratch.</li>
+		<li><a href="https://github.com/aallali/libft-but-rusty">libft-but-rusty</a>: principal balise of C functions re-written from scratch but in RUST.</li>
 	</ul>
 	<li><b>Web Apps:</b></li>
 	<ul>
 		<li> <a href="https://github.com/aallali/red-tetris">RED-TETRIS</a>: Online Multiplayer Tetris game with ReactJs + NodeJs using Sockets and typescript </li>
 		<li> <a href="https://github.com/aallali/Matcha">Matcha</a>: Tinder like web app with Nodejs + MySql</li>
 		<li> <a href="https://github.com/aallali/camagru">Camagru</a>: instagram like web app using PHP and MySql </li>
+		<li> <a href="https://github.com/aallali/TODO-APP-TDD">TODO-APP-TDD</a>: a simple CRUD task manager + Auth app following Test Drien Developement TDD </li>
 	</ul>
 	<li><b>Mobile Apps:</b></li>
 	<ul>
