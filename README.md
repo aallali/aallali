@@ -17,14 +17,14 @@
 ## Projects:
 
 <details>
-<summary><b>Open Source Tools</b></summary>
+<summary><b>⚙️ Open Source Tools</b></summary>
 <ul>
   <li><a href="https://github.com/aallali/deepeye">DeepEye</a>: A CLI written in GO for advanced search queries on large files.</li>
 </ul>
 </details>
 
 <details>
-<summary><b>Data Science/AI</b></summary>
+<summary><b>🧠 Data Science/AI</b></summary>
 <ul>
   <li><a href="https://github.com/aallali/Leaf-Diseases-Classification">Leaffliction</a>: Computer vision for plant leaf disease analysis.</li>
   <li><a href="https://github.com/aallali/gomoku">Gomoku</a>: A strong Gomoku player engine.</li>
@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary><b>Algorithms Implementation</b></summary>
+<summary><b>🧩 Algorithms Implementation</b></summary>
 <ul>
   <li><a href="https://github.com/aallali/N-Puzzle-Js">n-puzzle-js</a>: A*/BFS/DFS for solving N-sized slide puzzles with React UI.</li>
   <li><a href="https://github.com/aallali/N-Puzzle">n-puzzle</a>: Python implementation for solving slide puzzles.</li>
@@ -48,7 +48,7 @@
 </details>
 
 <details>
-<summary><b>Web Apps</b></summary>
+<summary><b>🌐 Web Apps</b></summary>
 <ul>
   <li><a href="https://github.com/aallali/red-tetris">RED-TETRIS</a>: Online multiplayer Tetris game with React and Node.js.</li>
   <li><a href="https://github.com/aallali/Matcha">Matcha</a>: Tinder-like web app using Node.js and MySQL.</li>
@@ -58,7 +58,7 @@
 </details>
 
 <details>
-<summary><b>Mobile Apps</b></summary>
+<summary><b>📱Mobile Apps</b></summary>
 <ul>
   <li><a href="https://github.com/aallali/3d-protein">3d Protein</a>: 3D protein visualization from PDB files with UI controls.</li>
   <li><a href="https://github.com/aallali/Swifty-Companion">swifty_companion</a>: App to retrieve 42 Network student data via API.</li>
@@ -67,7 +67,7 @@
 </details>
 
 <details>
-<summary><b>Security</b></summary>
+<summary><b>🔐 Security</b></summary>
 <ul>
   <li><a href="https://github.com/aallali/42-rainfall">Rainfall</a>: Reverse engineering and executable exploitation.</li>
   <li><a href="https://github.com/aallali/42-override">Override</a>: Reverse engineering and executable exploitation.</li>
@@ -77,14 +77,14 @@
 </details>
 
 <details>
-<summary><b>DevOps Lab</b></summary>
+<summary><b>🚢 DevOps Lab</b></summary>
 <ul>
   <li><a href="https://github.com/aallali/Inception-of-Things/tree/v2/1337">inception-of-things</a>: CI/CD deployment using Kubernetes for learning.</li>
 </ul>
 </details>
 
 <details>
-<summary><b>Data Scraping/Analysis</b></summary>
+<summary><b>⛏️ Data Scraping/Analysis</b></summary>
 <ul>
   <li><a href="https://github.com/aallali/quickScrapperFreelance">QuickScrapper</a>: Custom dynamic e-commerce web scraper in Python.</li>
 </ul>
