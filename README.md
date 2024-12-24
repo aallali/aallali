@@ -50,6 +50,8 @@
 <details>
 <summary><b>🌐 Web Apps</b></summary>
 <ul>
+  <li><a href="https://github.com/aallali/Bus-Route-Planner">Bus-Route-Planner - مخطط مسار الحافلة</a>: streamline student transportation management. It generates optimized bus routes, organizes station stops with precise timings, and manages subscriptions for students and their guardians.</li>
+
   <li><a href="https://github.com/aallali/red-tetris">RED-TETRIS</a>: Online multiplayer Tetris game with React and Node.js.</li>
   <li><a href="https://github.com/aallali/Matcha">Matcha</a>: Tinder-like web app using Node.js and MySQL.</li>
   <li><a href="https://github.com/aallali/camagru">Camagru</a>: Instagram-like web app with PHP and MySQL.</li>
