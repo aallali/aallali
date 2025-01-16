@@ -3,11 +3,11 @@
 
 <table>
   <tr>
-    <th>Currently Learning</th>
+    <th>Learning</th>
     <td>Storage Engines, Database internals</td>
   </tr>
   <tr>
-    <th>Currently Working On</th>
+    <th>Working On</th>
     <td>
       <ul>
         <li><a href="https://github.com/aallali/db.c">db.c</a>: Exploring low-level database concepts with C programming.</li>
@@ -43,7 +43,12 @@
     <th>Experience</th>
     <td>Backend development, Data Scrapping, Building large Automation scripts</td>
   </tr>
- 
+   <tr>
+    <th>+1</th>
+    <td>
+       <img src="https://komarev.com/ghpvc/?username=aallali&label=PROFILE+VIEWS&color=blue" alt="profile-views" />
+    </td>
+  </tr>
 </table>
 
 <h3>Projects:</h3>
