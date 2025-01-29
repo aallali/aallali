@@ -46,7 +46,8 @@
    <tr>
     <th>+1</th>
     <td>
-       <img src="https://komarev.com/ghpvc/?username=aallali&label=PROFILE+VIEWS&color=blue" alt="profile-views" />
+       <img src="https://komarev.com/ghpvc/?username=aallali&label=PROFILE+VIEWS&color=blue" alt="profile-views" /> <br/>
+      <a href="https://badge.mediaplus.ma/black/aallali"><img src="https://badge.mediaplus.ma/black/aallali" alt="aallali's 42 stats" /></a>
     </td>
   </tr>
 </table>
