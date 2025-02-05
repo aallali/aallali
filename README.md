@@ -66,6 +66,7 @@
       <ul>
         <li><a href="https://github.com/aallali/sysify">Sysify</a>: Lightweight TypeScript-Powered File System Wrapper for Node.js.</li>
         <li><a href="https://github.com/aallali/deepeye">DeepEye</a>: CLI in GO for advanced search queries on large files.</li>
+        <li><a href="https://github.com/aallali/P2P">P2P</a>: peer-to-peer connection system written in GO, supports file sharing.</li>
         <li><a href="https://github.com/aallali/meta-header.nvim">meta-header.nvim</a>: vim plugin to manage and dynamically generate file headers based on customizable environment variables.</li>
       </ul>
     </td>
