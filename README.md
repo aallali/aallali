@@ -58,7 +58,6 @@
   <tr>
     <th>Category</th>
     <th>Description</th>
-    <th>Technologies</th>
   </tr>
   <tr>
     <td><b>⚙️ Open Source Tools</b></td>
@@ -70,7 +69,6 @@
         <li><a href="https://github.com/aallali/meta-header.nvim">meta-header.nvim</a>: vim plugin to manage and dynamically generate file headers based on customizable environment variables.</li>
       </ul>
     </td>
-    <td>TypeScript, Go, Lua</td>
   </tr>
   <tr>
     <td><b>🧠 Data Science/AI</b></td>
@@ -83,7 +81,6 @@
         <li><a href="https://github.com/aallali/DSLR--Data-Science-X-Logistic-Regression-">DSLR</a>: Logistic regression student class predictor in Python.</li>
       </ul>
     </td>
-    <td>Python, ML, Data Mining</td>
   </tr>
   <tr>
     <td><b>🧩 Algorithms Implementation</b></td>
@@ -98,7 +95,6 @@
         <li><a href="https://github.com/aallali/libft-but-rusty">libft-but-rusty</a>: Core C functions re-implemented in Rust.</li>
       </ul>
     </td>
-    <td>C, Python, JavaScript, TypeScript</td>
   </tr>
   <tr>
     <td><b>🌐 Web Apps</b></td>
@@ -111,7 +107,6 @@
         <li><a href="https://github.com/aallali/TODO-APP-TDD">TODO-APP-TDD</a>: Task manager in Test-Driven Development.</li>
       </ul>
     </td>
-    <td>React, Node.js, PHP, MySQL, TypeScript, Jest, Socket.IO</td>
   </tr>
   <tr>
     <td><b>📱 Mobile Apps</b></td>
@@ -122,7 +117,6 @@
         <li><a href="https://github.com/aallali/ft-hangouts">ft_hangouts</a>: Contacts manager for Android.</li>
       </ul>
     </td>
-    <td>Android, Java, React Native, TypeScript</td>
   </tr>
   <tr>
     <td><b>🔐 Security</b></td>
@@ -134,7 +128,6 @@
         <li><a href="https://github.com/aallali/42-boot2root">snow-crash</a>: Cybersecurity challenges in various fields.</li>
       </ul>
     </td>
-    <td>Reverse Engineering, Exploitation, GDB, C, ASM</td>
   </tr>
   <tr>
     <td><b>🚢 DevOps Lab</b></td>
@@ -143,7 +136,6 @@
         <li><a href="https://github.com/aallali/Inception-of-Things/tree/v2/1337">inception-of-things</a>: Kubernetes Lab.</li>
       </ul>
     </td>
-    <td>Kubernetes, Docker</td>
   </tr>
   <tr>
     <td><b>⛏️ Data Scraping</b></td>
@@ -153,6 +145,5 @@
         <li><a href="https://github.com/aallali/AntsQ">AntsQ</a>: Distributed web crawler. It is designed to scale globally, supporting multiple presets for diverse crawling tasks</li>
       </ul>
     </td>
-    <td>Node.Js, Python, BullQ, RabbitMQ, MongoDB, S3</td>
   </tr>
 </table>
