@@ -1,11 +1,9 @@
-<h3 align="center">Backend Engineer | Passionate about Databases & Low-Level Systems</h3>
+<h3 align="center">Software Engineer (actually i'm LLM abuser)</h3>
+
+### About Me
+- [x] Exploring **database internals**, **storage engines** and **system designs**
+- [x] Building with **C**, **Rust**, and **TypeScript**  
+- [x] Experienced in **backend development**, **data automation**
 
 ---
-
-### 🚀 About Me
-- 💻 Exploring **database internals**, **storage engines** and **system designs**
-- ⚙️ Building with **C**, **Rust**, and **TypeScript**  
-- 🧩 Experienced in **backend development**, **data automation**
-
----
-- 📰 [blog](https://blog.allali.me) • 🌐 [portfolio](https://www.allali.me) • 💼 [LinkedIn](https://linkedin.com/in/aallali) • 🧠 [LeetCode](https://leetcode.com/aallali)
+- 📰 [Articles](https://allali.me/articles/) • 🌐 [Projects](https://allali.me/projects/) • 💼 [LinkedIn](https://linkedin.com/in/aallali) • 🧠 [LeetCode](https://leetcode.com/aallali)
